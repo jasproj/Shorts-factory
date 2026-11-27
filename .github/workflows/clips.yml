@@ -1,0 +1,44 @@
+name: Generate clips (Kling)
+
+on:
+  push:
+    branches: [main]
+    paths: ["clips/shots/**", "clips/kling.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: clips
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Open the clips branch
+        run: |
+          git fetch origin clips:clips 2>/dev/null && git worktree add out clips || {
+            git worktree add --detach out
+            git -C out checkout --orphan clips
+            git -C out rm -rfq .
+          }
+      - name: Generate
+        env:
+          KLING_API_KEY: ${{ secrets.KLING_API_KEY }}
+          KLING_ACCESS_KEY: ${{ secrets.KLING_ACCESS_KEY }}
+          KLING_SECRET_KEY: ${{ secrets.KLING_SECRET_KEY }}
+        run: |
+          rc=0
+          for f in clips/shots/*.json; do python3 clips/kling.py "$f" --out out || rc=$?; done
+          exit $rc
+      - name: Save clips and log
+        if: always()
+        run: |
+          cd out
+          git config user.name "shorts-factory"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -qm "Clips run ${GITHUB_RUN_ID}"
+          git push origin clips

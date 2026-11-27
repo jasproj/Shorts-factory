@@ -1,0 +1,11 @@
+{
+  "id": "01-can-you-swim-in-it",
+  "style": "Shot on a phone at night, handheld, natural low light, realistic, slightly grainy, no text, no captions, no logos.",
+  "shots": [
+    {"id": "a-paddle", "seconds": 5, "prompt": "Close-up of a kayak paddle dipping into dark calm lagoon water at night. Each stroke leaves a faint blue-green sparkle in the water that fades after a second. Subtle glow, not neon."},
+    {"id": "b-mangrove", "seconds": 5, "prompt": "Point of view from a kayak gliding down a narrow mangrove channel in Puerto Rico at dusk, other kayakers ahead in silhouette, branches arching overhead, deep blue twilight sky."},
+    {"id": "c-hand", "seconds": 5, "prompt": "A hand trailing through black water beside a kayak at night, leaving a soft trail of tiny blue-green points of light that fade quickly. Dark surroundings, subtle glow."},
+    {"id": "d-boat", "seconds": 5, "prompt": "A small open tour boat with a few passengers heading out across a calm bay on the southwest coast of Puerto Rico just after sunset, low mangrove islands on the horizon, last orange light in the sky."},
+    {"id": "e-swim", "seconds": 5, "prompt": "Seen from the deck of a small boat at night: a swimmer treading dark water, faint blue-green sparkles appearing around their moving arms and fading. Subtle, realistic glow, dark sky."}
+  ]
+}

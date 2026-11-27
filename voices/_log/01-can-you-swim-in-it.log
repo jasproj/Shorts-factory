@@ -1,0 +1,5 @@
+19:44:52 === 01-can-you-swim-in-it: 3 voices, model=eleven_turbo_v2_5, len(vo)=42w
+19:44:53 01-can-you-swim-in-it / laura-upbeat: saved 191KB, 42 words, 12.17s
+19:44:53 01-can-you-swim-in-it / jessica-expressive: saved 230KB, 42 words, 14.68s
+19:44:53 01-can-you-swim-in-it / aria-expressive: FAILED http=402 body={"detail": {"type": "payment_required", "code": "paid_plan_required", "message": "Free users cannot use library voices via the API. Please upgrade your subscription to use this voice.", "status": "payment_required", "request_id": "7d01e5907963a3319e93eb10bfb23511"}}
+19:44:53 === result: {"FGY2WhTYpPnrIDTdsKH5": "new", "cgSgspJ2msm6clMCkdW9": "new", "9BWtsMINqrJLrRacOk9x": "failed"}  new TTS calls this run: 2

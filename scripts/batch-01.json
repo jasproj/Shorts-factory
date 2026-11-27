@@ -1,0 +1,211 @@
+[
+  {
+    "id": "01-can-you-swim-in-it",
+    "title": "Can you swim in it?",
+    "bubble": "wait can you actually swim in the glowing water??",
+    "vo": "Can you swim in the bio bay? In two of the three — no. Vieques and Fajardo are protected, kayak only. La Parguera, on the southwest coast, is the one where you can actually get in. Boat out, then you jump in.",
+    "highlights": [
+      "no",
+      "Parguera",
+      "jump"
+    ],
+    "facts": [
+      "F01",
+      "F03",
+      "F04"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 42
+  },
+  {
+    "id": "02-why-your-tour-got-cancelled",
+    "title": "Why your tour got cancelled",
+    "bubble": "our vieques bio bay tour got cancelled?? weather was perfect",
+    "vo": "Your Vieques tour didn't get cancelled for weather. It was the moon. Puerto Rico doesn't allow Mosquito Bay tours the day before, the day of, or the day after a full moon. Book your bio bay night around the moon first.",
+    "highlights": [
+      "moon",
+      "full moon",
+      "first"
+    ],
+    "facts": [
+      "F08",
+      "F10"
+    ],
+    "link": "moon-phase / bio bay page",
+    "words": 41
+  },
+  {
+    "id": "03-which-one-is-brightest",
+    "title": "Which one is brightest?",
+    "bubble": "which bio bay is actually the brightest?",
+    "vo": "Brightest? Mosquito Bay on Vieques — it held the world record. But it's a ferry or a flight, and you're staying the night. Only have one night from San Juan? Laguna Grande in Fajardo, about an hour away.",
+    "highlights": [
+      "Mosquito Bay",
+      "one night",
+      "Fajardo"
+    ],
+    "facts": [
+      "F01",
+      "F02",
+      "F05",
+      "F07"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 38
+  },
+  {
+    "id": "04-full-moon-in-fajardo",
+    "title": "Full moon in Fajardo?",
+    "bubble": "is it even worth going on a full moon?",
+    "vo": "On a full moon? Vieques won't even run. Fajardo will — but they sell it as a moonlight tour, not a glow tour. The darker the night, the brighter the bay. If you want the glow, go near the new moon.",
+    "highlights": [
+      "Vieques won't",
+      "moonlight",
+      "new moon"
+    ],
+    "facts": [
+      "F08",
+      "F09",
+      "F10"
+    ],
+    "link": "Laguna Grande page",
+    "words": 41
+  },
+  {
+    "id": "05-do-i-have-to-stay-in-vieques",
+    "title": "Do I have to stay in Vieques?",
+    "bubble": "can we do vieques bio bay as a day trip from san juan?",
+    "vo": "Day trip to the Vieques bio bay? Not really. Tours run after dark, and getting there is a ferry from Ceiba or a flight. Plan to stay the night. If you can't, Fajardo is the move — about an hour from San Juan.",
+    "highlights": [
+      "Not really",
+      "stay the night",
+      "Fajardo"
+    ],
+    "facts": [
+      "F05",
+      "F07"
+    ],
+    "link": "Vieques page",
+    "words": 43
+  },
+  {
+    "id": "06-is-it-worth-it",
+    "title": "Is it worth it?",
+    "bubble": "honestly is the bio bay worth it or overrated",
+    "vo": "Is it worth it? Yes — if you go in with the right expectations. It's not a solid neon pool. It's a blue-green flash every time the water moves. Nobody can promise the glow, so pick a dark night and it pays off.",
+    "highlights": [
+      "expectations",
+      "blue-green",
+      "dark night"
+    ],
+    "facts": [
+      "F10",
+      "F11",
+      "F13",
+      "F17"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 43
+  },
+  {
+    "id": "07-what-does-it-look-like",
+    "title": "What does it look like?",
+    "bubble": "what does the bio bay look like in real life?",
+    "vo": "What does it actually look like? Every time your paddle hits the water, it flashes blue-green. Your hand, a fish swimming by — anything that moves the water lights it up. It's tiny living organisms, and they glow when disturbed.",
+    "highlights": [
+      "blue-green",
+      "anything",
+      "organisms"
+    ],
+    "facts": [
+      "F11"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 40
+  },
+  {
+    "id": "08-can-i-film-it",
+    "title": "Can I film it?",
+    "bubble": "will my iphone pick up the glow?",
+    "vo": "Will your phone pick it up? Mostly, no. Bioluminescence is notoriously hard to photograph. Put the phone away and just watch. That's why every video you've seen, including this one, undersells it.",
+    "highlights": [
+      "no",
+      "watch",
+      "undersells"
+    ],
+    "facts": [
+      "F13"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 32
+  },
+  {
+    "id": "09-why-does-it-glow",
+    "title": "Why does it glow?",
+    "bubble": "why does the water glow??",
+    "vo": "Why does it glow? Tiny organisms called dinoflagellates. They flash blue-green when something moves the water. And they're fed by the mangroves around the bay. Lose the mangroves, lose the glow. That's why you can't swim in most of them.",
+    "highlights": [
+      "dinoflagellates",
+      "mangroves",
+      "protected"
+    ],
+    "facts": [
+      "F03",
+      "F11",
+      "F12",
+      "F20"
+    ],
+    "link": "PR bio bay comparison page",
+    "words": 40
+  },
+  {
+    "id": "10-the-bug-spray-mistake",
+    "title": "The bug spray mistake",
+    "bubble": "what should i bring to the bio bay tour?",
+    "vo": "What to bring? Here's the one people get wrong: skip the DEET bug spray in Mosquito Bay. It harms the organisms that make the glow. Yes, in a place called Mosquito Bay. You might itch for a day. Worth it.",
+    "highlights": [
+      "DEET",
+      "glow",
+      "itch"
+    ],
+    "facts": [
+      "F14"
+    ],
+    "link": "Vieques page",
+    "words": 40
+  },
+  {
+    "id": "11-did-the-hurricane-kill-it",
+    "title": "Did the hurricane kill it?",
+    "bubble": "is the vieques bio bay still glowing after the hurricane?",
+    "vo": "Is it still glowing? Yes. After Hurricane Maria in 2017, Mosquito Bay went dark for about seven months. Then it came back. These bays are fragile — rain and storms affect them — but it's glowing again.",
+    "highlights": [
+      "Yes",
+      "seven months",
+      "glowing"
+    ],
+    "facts": [
+      "F15",
+      "F17"
+    ],
+    "link": "Vieques page",
+    "words": 37
+  },
+  {
+    "id": "12-can-kids-do-it",
+    "title": "Can kids do it?",
+    "bubble": "can my kids do the bio bay kayak?",
+    "vo": "Can kids do it? Usually, yes — most Fajardo kayak tours start at age six, and they're built for beginners. Younger kids ride in the same kayak as an adult. Under six? Look at the La Parguera boat tours instead.",
+    "highlights": [
+      "six",
+      "beginners",
+      "Parguera"
+    ],
+    "facts": [
+      "F16",
+      "F19"
+    ],
+    "link": "Laguna Grande page",
+    "words": 40
+  }
+]

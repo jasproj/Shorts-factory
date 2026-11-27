@@ -1,0 +1,8 @@
+17:01:25 === 01-can-you-swim-in-it: 5 shots, base=https://api-singapore.klingai.com, model=/text-to-video/kling-3.0
+17:01:25 auth: api-key
+17:01:26 a-paddle: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "9f666823-60be-42d9-816d-b52e3b509fcc"}
+17:01:26 b-mangrove: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "c614b6fe-1df5-44b5-9c88-857f34fc4006"}
+17:01:27 c-hand: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "f8c5be2f-bec2-4536-af55-c0a98d7d5f45"}
+17:01:27 d-boat: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "a7f10ac5-1be4-4ff1-8cca-b3e962406173"}
+17:01:28 e-swim: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "20ba97f2-047b-425a-aa2b-1e9d05c49f60"}
+17:01:28 === result: {"a-paddle": "failed", "b-mangrove": "failed", "c-hand": "failed", "d-boat": "failed", "e-swim": "failed"}  new paid tasks this run: 0

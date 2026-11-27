@@ -6,3 +6,15 @@
 17:01:27 d-boat: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "a7f10ac5-1be4-4ff1-8cca-b3e962406173"}
 17:01:28 e-swim: CREATE FAILED http=429 body={"code": 1102, "message": "Account balance not enough", "request_id": "20ba97f2-047b-425a-aa2b-1e9d05c49f60"}
 17:01:28 === result: {"a-paddle": "failed", "b-mangrove": "failed", "c-hand": "failed", "d-boat": "failed", "e-swim": "failed"}  new paid tasks this run: 0
+17:34:28 === 01-can-you-swim-in-it: 5 shots, provider=fal, model=fal-ai/kling-video/v3/turbo/standard/text-to-video
+17:34:29 a-paddle: request 01a21e12-a896-79d0-b51d-7bd0dbff4a55 queued
+17:38:17 a-paddle: saved out/01-can-you-swim-in-it/a-paddle.mp4 (3921 KB, 228s)
+17:38:17 b-mangrove: request 01a21e16-25c7-7fd3-a914-40788730cea3 queued
+17:42:21 b-mangrove: saved out/01-can-you-swim-in-it/b-mangrove.mp4 (8200 KB, 243s)
+17:42:21 c-hand: request 01a21e19-defa-70c2-a657-5873ff1bdd8b queued
+17:46:24 c-hand: saved out/01-can-you-swim-in-it/c-hand.mp4 (3067 KB, 242s)
+17:46:24 d-boat: request 01a21e1d-927e-72d2-9701-5a3fc53607c0 queued
+17:50:13 d-boat: saved out/01-can-you-swim-in-it/d-boat.mp4 (5488 KB, 228s)
+17:50:13 e-swim: request 01a21e21-1136-7080-8f48-db802c4ba672 queued
+17:53:16 e-swim: saved out/01-can-you-swim-in-it/e-swim.mp4 (3176 KB, 183s)
+17:53:16 === result: {"a-paddle": "new", "b-mangrove": "new", "c-hand": "new", "d-boat": "new", "e-swim": "new"}  new paid tasks this run: 5
